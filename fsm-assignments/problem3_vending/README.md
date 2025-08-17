@@ -27,9 +27,9 @@ We model the total inserted amount as states:
 ---
 
 ## 📊 State Diagram
-![State Diagram]((https://github.com/user-attachments/assets/00d2bee0-e510-46b3-b070-83968623bc93))
+![State Diagram](https://github.com/user-attachments/assets/00d2bee0-e510-46b3-b070-83968623bc93)
 
-*(Replace the link above with the actual path to your uploaded diagram in GitHub)*
+
 
 ---
 
@@ -47,5 +47,4 @@ We model the total inserted amount as states:
 
 ![Waveform](https://github.com/user-attachments/assets/50979755-0ba3-4950-ab8c-639ea8d0695d)
 
-*(Replace with waveform screenshot link once you upload it)*
 
