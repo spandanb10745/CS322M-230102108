@@ -2,9 +2,9 @@
 
 This document lists the RVX10 instruction set (10 ops) and the concrete encodings for each added instruction.
 
-![The RVX10 Instruction Set (10 ops)](path/to/yourfile.png)
+![The RVX10 Instruction Set (10 ops)](https://github.com/user-attachments/assets/8389582a-fc73-4436-9245-5e7963b313ee)
 
-![Encoding Table (Concrete)](path/to/yourfile.png)
+![Encoding Table (Concrete)](https://github.com/user-attachments/assets/62deca4f-a804-4f6e-9954-b0ef7a0dbb8c)
 
 ---
 
