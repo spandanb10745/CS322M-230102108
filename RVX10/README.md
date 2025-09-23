@@ -32,7 +32,6 @@ My primary goal was to **add new instructions without large hardware changes**.
 
 ### 4. Main Decoder
 - Added a new R-type operand following the existing R-type structure.
-- Only ALU op changed to `2'b11`.
 - ![Main Decoder Screenshot](https://github.com/user-attachments/assets/3d179b70-f940-464f-9c39-efebb3cc5141)
 
 ### 5. ALU Decoder
