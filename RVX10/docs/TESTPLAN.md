@@ -44,8 +44,6 @@ This file specifies the test program for the RVX10 single-cycle processor. The p
 
 ## Screenshots
 
-Add the following screenshots to the repository and link them here:
-
 ![risctest.mem](https://github.com/user-attachments/assets/a7710874-5da2-47a9-b648-a8fef01ba181)
 
 ![risctest.mem_2](https://github.com/user-attachments/assets/3a967e8c-093e-4f6f-acdb-0c3e7a98e328)
