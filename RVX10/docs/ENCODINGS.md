@@ -28,7 +28,7 @@ Field widths:
 * rd:    5 bits (bits 11..7)
 * op:    7 bits (bits 6..0)
 
-All RVX10 custom instructions use the 7-bit opcode `0001011` for the new opcodes except the example ADD that uses `0110011` (standard R-type). Adjust as needed if you map to another custom opcode space.
+All RVX10 custom instructions use the 7-bit opcode `0001011` for the new opcodes.
 
 ---
 
@@ -51,12 +51,6 @@ All RVX10 custom instructions use the 7-bit opcode `0001011` for the new opcodes
 
 ---
 
-## Notes / tips
-
-* The machine\_code column shows the 32-bit little-endian hex representation for convenience. Verify endianness and assembler/macro expectations in your toolchain before committing these encodings to the ISA table.
-* If you want, I can also generate a CSV version of this table or produce Verilog `case` encodings for your decoder directly from this markdown table.
-
----
 
 *End of ENCODINGS.md*
 
