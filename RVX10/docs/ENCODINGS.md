@@ -55,5 +55,3 @@ Already been loaded before doing the below commands.
 ---
 
 
-*End of ENCODINGS.md*
-
