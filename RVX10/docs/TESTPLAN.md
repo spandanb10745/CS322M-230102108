@@ -46,12 +46,14 @@ This file specifies the test program for the RVX10 single-cycle processor. The p
 
 Add the following screenshots to the repository and link them here:
 
-![risctest.mem]([images/risctest_mem.png](https://github.com/user-attachments/assets/a7710874-5da2-47a9-b648-a8fef01ba181))
-![risctest.mem_2]([images/risctest_mem_2.png]https://github.com/user-attachments/assets/3a967e8c-093e-4f6f-acdb-0c3e7a98e328)
+![risctest.mem](https://github.com/user-attachments/assets/a7710874-5da2-47a9-b648-a8fef01ba181)
 
-![Risc test reg file screenshot]([images/risc_test_reg_file.png](https://github.com/user-attachments/assets/2890c3d8-06ea-410c-abf9-39f7d5f3c313))
+![risctest.mem_2](https://github.com/user-attachments/assets/3a967e8c-093e-4f6f-acdb-0c3e7a98e328)
 
-![Sample of Sarah Harris ref book Digital design and computer architecture]([images/sarah_harris_sample.png](https://github.com/user-attachments/assets/87863e0f-9cb3-4b95-a4ff-1014210ddfe1))
+![Risc test reg file screenshot](https://github.com/user-attachments/assets/2890c3d8-06ea-410c-abf9-39f7d5f3c313)
+
+![Sample of Sarah Harris ref book Digital design and computer architecture](https://github.com/user-attachments/assets/87863e0f-9cb3-4b95-a4ff-1014210ddfe1)
+
 
 ---
 
