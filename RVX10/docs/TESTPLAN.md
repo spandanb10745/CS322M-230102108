@@ -57,14 +57,12 @@ Add the following screenshots to the repository and link them here:
 
 ---
 
-Implemented Checklist
+## Implemented Checklist
 
-Rotate by 0 returns rs1; no shift-by-32 in RTL.
+* Rotate by 0 returns rs1; no shift-by-32 in RTL.
+* ABS(INT\_MIN) returns 0x80000000.
+* x0 writes are ignored.
+* Final store writes 25 to address 100.
 
-ABS(INT_MIN) returns 0x80000000.
-
-x0 writes are ignored.
-
-Final store writes 25 to address 100.
 
 
