@@ -27,7 +27,7 @@ This file specifies the test program for the RVX10 single-cycle processor. The p
 | end:    | add  x2,x2,x9     | x2 = 7 + 18 = 25                     |              0x48 |    0x00910133 |            |
 |         | andn x10,x2,x9    | x10 = 25 & \~18 = 9                  |              0x4C |    0x0091050B |            |
 |         | orn  x11,x2,x9    | x11 = 25 | \~18 = 4294967293         |              0x50 |    0x0091158B |            |
-|         | xorn x12,x2,x9    | x12 = 25 ^ \~18 = 4294967284         |              0x54 |    0x0091260B |           |
+|         | xorn x12,x2,x9    | x12 = 25 ^ \~18 = 4294967284         |              0x54 |    0x0091260B |            |
 |         | min  x13,x2,x9    | x13 = min(25,18) = 18                |              0x58 |    0x0291068B |            |
 |         | max  x14,x2,x9    | x14 = max(25,18) = 25                |              0x5C |    0x0291170B |            |
 |         | minu x15,x2,x9    | x15 = min unsigned(25,18) = 18       |              0x60 |    0x0291278B |            |
