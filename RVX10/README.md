@@ -43,3 +43,5 @@ My primary goal was to **add new instructions without large hardware changes**.
 - To avoid writes to `x0`, added a simple condition:
   ```verilog
   if (we & a3 != 0) rf[a3] <= wd;
+- ![x0 no rewrites](https://github.com/user-attachments/assets/2cae1b63-3816-4eab-81d2-bbfd832189cf)
+  
