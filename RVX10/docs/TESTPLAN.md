@@ -40,6 +40,7 @@ This file specifies the test program for the RVX10 single-cycle processor. The p
 |         | sw   x0,0x20(x3)  | \[100] = 25                          |              0x7C |    0x0221A023 |            |
 | done:   | beq  x2,x2,done   | infinite loop                        |              0x80 |    0x00210063 |            |
 
+*0x80000000= 2147483648
 ---
 
 ## Screenshots
