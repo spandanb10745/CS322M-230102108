@@ -31,8 +31,9 @@ Field widths:
 All RVX10 custom instructions use the 7-bit opcode `0001011` for the new opcodes.
 
 ---
-x2=25;
-x9=18; as I have shown in my assembly and test it has already been done to exceute the following commands.
+*x2=25;
+*x9=18; 
+Already been loaded before doing the below commands.
 
 ## Encoding table (concrete)
 
